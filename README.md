@@ -1,10 +1,10 @@
 ### Hello, world! I'm Vinicius Schutt 👋
 
-- 🔭 I’m currently doing an internship in software quality assurance and working on completing both CS50's Introduction to Computer Science and Web Programming with Python and JavaScript on edX.
-- 🌱 I’m currently learning SQL (MySQL and PostgreSQL) simultaneously with MS Power BI. And Python always, which is my main language.
+- 🔭 I’m currently doing an internship in software quality assurance and working on completing both CS50's Introduction to Computer Science and Web Programming with Python and JavaScript on edX, along with many other courses related to Software Quality Assurance on Udemy.
+- 🌱 I’m currently learning e2e test automation with Cypress and API testing with Postman
 - 👯 I’m looking to collaborate on any interesting projects I'm able.
-- 🤔 I’m looking for help with Data Science in general, the next thing I want to dive in.
-- 💬 Ask me about ...
+- 🤔 I’m mostly interested in test automation and continuous integration in general!
+- 💬 Ask me about Quality Assurance!
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I listem to relaxing music almost all the time.
 - 📫 How to reach me: 
@@ -37,8 +37,9 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
 ### IDE
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
+ 
+<br/><br/>
 <img src = "https://github-readme-stats.vercel.app/api?username=ViniciusSchutt&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
