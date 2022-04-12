@@ -1,12 +1,11 @@
-### Hello, world! I'm Vinicius Schutt 👋
+### Hello! I'm Vinicius Schutt, Software QA Analyst.
 
-- 🔭 I’m currently doing an internship in software quality assurance and working on completing both CS50's Introduction to Computer Science and Web Programming with Python and JavaScript on edX, along with many other courses related to Software Quality Assurance on Udemy.
-- 🌱 I’m currently learning e2e test automation with Cypress and API testing with Postman
-- 👯 I’m looking to collaborate on any interesting projects I'm able.
-- 🤔 I’m mostly interested in test automation and continuous integration in general!
-- 💬 Ask me about Quality Assurance!
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I listem to relaxing music almost all the time.
+- I currently work as a Software Quality Assurance Analyst at a software house in Brazil
+- I’m currently hyped about Robot Framework, wich I use to automate everything possible and absolutely love
+- I’m mostly interested in test automation and continuous integration in general!
+- You can ask me about Quality Assurance! =)
+- Pronouns: He/Him.
+- Fun fact: I listem to relaxing music almost all the time.
 - 📫 How to reach me: 
 - [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/vinícius-schütt) &nbsp;
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/vinicius.schiitt.7) &nbsp;
