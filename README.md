@@ -1,7 +1,7 @@
 ### Hello! I'm Vinicius Schutt, Software QA Analyst.
 
 - I currently work as a Software Quality Assurance Analyst at a software house in Brazil
-- I’m currently hyped about Robot Framework, wich I use to automate everything possible and absolutely love
+- Very excited about Robot Framework, wich I use to automate everything possible and absolutely love
 - I’m mostly interested in test automation and continuous integration in general!
 - You can ask me about Quality Assurance! =)
 - Pronouns: He/Him.
