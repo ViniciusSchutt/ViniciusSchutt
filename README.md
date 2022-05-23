@@ -1,7 +1,7 @@
 ### Hello! I'm Vinicius Schutt, Software QA Analyst.
 
 - I currently work as a Software Quality Assurance Analyst at a software house in Brazil
-- Test Automation enthusiast, with focus on Selenium (with Cucumber and Page Objects), Appium and REST Assured
+- Web, mobile and API test automation enthusiast, with focus on Selenium (with Cucumber and Page Objects), Appium and REST Assured
 - You can ask me about Quality Assurance in general
 - Pronouns: He/Him.
 - Fun fact: I listem to relaxing music almost all the time.
