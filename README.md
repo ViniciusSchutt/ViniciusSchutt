@@ -49,8 +49,10 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   
-### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Vinicius Schutt}">
+### Education (beyond formal)
+<img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white">
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
+<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
  
 <br/><br/>
 <img src = "https://github-readme-stats.vercel.app/api?username=ViniciusSchutt&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
